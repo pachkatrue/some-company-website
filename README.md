@@ -30,7 +30,7 @@ This is a responsive website for "Some Company" built with Next.js, TypeScript, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/some-company-website.git
+git clone https://github.com/pachkatrue/some-company-website.git
 cd some-company-website
 ```
 
